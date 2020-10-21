@@ -44,6 +44,11 @@ obs: The total quantity of lines in S3 is summed 10.000 on dimensions tables and
 
 ![inset_query](./images/inset_query.PNG)
 
-## Total time
+## Redshift data quality
+
+![part2_data_quality1](./images/part2_data_quality1.PNG)
+![part2_data_quality2](./images/part2_data_quality2.PNG)
+
+## Final
 
 ![final](./images/final.PNG)
